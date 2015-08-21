@@ -10,3 +10,4 @@ import Foundation
 
 println("Hello, World!")
 
+let first_str = "wo jiao xiang wen jun";
