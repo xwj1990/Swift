@@ -11,3 +11,6 @@ import Foundation
 println("Hello, World!")
 
 let first_str = "wo jiao xiang wen jun";
+
+
+let second_str = "wo shi di er ma?";
