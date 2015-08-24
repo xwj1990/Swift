@@ -34,7 +34,7 @@ var third_str = "third";
 
 
 
-
+//回到暂存区，在使用git checkout
 
 
 
