@@ -14,3 +14,5 @@ let first_str = "wo jiao xiang wen jun";
 
 
 let second_str = "wo shi di er ma?";
+
+var third_str = "git reset --soft HEAD~3"
