@@ -25,10 +25,16 @@ var third_str = "third";
 */
 
 
+/*
+
+使用 git reset --soft HEAD~n 来回滚到历史提交
+
+
+*/
 
 
 
-
+//回到暂存区，在使用git checkout
 
 
 
